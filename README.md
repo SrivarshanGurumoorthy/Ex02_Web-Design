@@ -19,9 +19,6 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
-
-## OUTPUT
 '''
 <html>
 <head>
@@ -50,6 +47,9 @@
 
  </html>
   '''
+
+## OUTPUT
+
   ![Screenshot (39)](https://user-images.githubusercontent.com/127816583/228878003-d0d80481-5065-4a08-b240-0966d457fb37.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/127816583/228880827-6ee48716-2194-499d-980e-c13d003ac915.png)
 
