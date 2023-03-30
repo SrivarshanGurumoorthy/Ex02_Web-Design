@@ -22,6 +22,38 @@
 
 
 ## OUTPUT
+'''
+<html>
+<head>
+<tittle> Saveetha Engineering College </tittle>
+<body bgcolor="cyan" text="black">
+<h1 style="text-align:center;">Saveetha Engineering College</h1>
+<hr width "px;" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science And Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>
+<ul type="disc">
+<li>Artificial Intelligence Data Science</li>
+<li>Artificial Intelligence - Machine Learning</li>
+<li>Internet of Things</li>
+</ul>
+
+<li>Electronics & Communication Engineering</li> 
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
+
+ </ol>
+
+</body>
+
+ </html>
+  '''
+  ![Screenshot (39)](https://user-images.githubusercontent.com/127816583/228878003-d0d80481-5065-4a08-b240-0966d457fb37.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/127816583/228880827-6ee48716-2194-499d-980e-c13d003ac915.png)
+
+
 
 
 ## RESULT
