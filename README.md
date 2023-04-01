@@ -24,12 +24,13 @@
 <head>
 
 <tittle> Saveetha Engineering College </tittle>
+</head>
 
-<body bgcolor="cyan" text="black">
+<body bgcolor="cyan" text-"black">
 
-<h1 style="text-align:center;">Saveetha Engineering College</h1>
+<h1 align:"center">Saveetha Engineering College</h1>
 
-<hr width "px;" color="red">
+<hr size="8" color="red">
 
 <ol type="A">
 
@@ -67,9 +68,9 @@
   ```
 
 ## OUTPUT
+![Screenshot (45)](https://user-images.githubusercontent.com/127816583/229295627-409d3993-5d9b-4b40-a044-5a4b96f8eb60.png)
 
 
-![Screenshot (40)](https://user-images.githubusercontent.com/127816583/228880827-6ee48716-2194-499d-980e-c13d003ac915.png)
 
 
 
